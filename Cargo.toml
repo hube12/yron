@@ -3,6 +3,8 @@ name = "yml_to_ron"
 version = "0.1.0"
 authors = ["Neil <neilhube12@gmail.com>"]
 edition = "2018"
+description="Simple utility to transmute a yaml file to a valid ron file"
+license="MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [[bin]]

@@ -9,5 +9,5 @@ cargo build --release
 ./yron <filename>
 ```
 
-Produce <filename-extension>.ron 
+Produce `<filename-extension>.ron`
 
